@@ -1,4 +1,4 @@
-streamlit==1.13.3
+streamlit>=1.15.1
 speech_recognition==3.10.1
 google-api-python-client>=1.33.0
 googletrans==4.0.0
