@@ -1,0 +1,11 @@
+streamlit==1.13.3
+speech_recognition==3.10.1
+google-api-python-client>=1.33.0
+googletrans==4.0.0
+textblob==0.19.1
+gtts==0.8.5
+os
+uuid
+spacy==4.3.0
+transformers==4.23.0
+plotly==5.11.2
