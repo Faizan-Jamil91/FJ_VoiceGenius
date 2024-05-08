@@ -7,4 +7,4 @@ gtts>=2.2.2
 spacy>=3.2.1
 transformers>=4.13.0
 plotly>=5.3.1
-
+pyaudio>=0.2.14
